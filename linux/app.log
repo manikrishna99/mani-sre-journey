@@ -1,0 +1,16 @@
+INFO Server started
+INFO Application running
+INFO User logged in
+ERROR Database connection failed
+INFO Request received
+ERROR Timeout occurred
+INFO Request completed
+ERROR Connection refused
+INFO Server healthy
+ERROR Payment service unavailable
+INFO Request completed successfully
+ERROR Database connection failed
+ERROR Database connection failed
+ERROR Timeout occurred
+ERROR Database connection failed
+ERROR Connection refused

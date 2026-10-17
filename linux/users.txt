@@ -1,0 +1,3 @@
+krishna:1000:1000:/home/krishna
+admin:0:0:/root
+developer:1001:1001:/home/developer
